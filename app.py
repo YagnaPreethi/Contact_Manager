@@ -1,3 +1,4 @@
+
 import json
 from pathlib import Path
 
@@ -141,6 +142,7 @@ def main():
             #     print("DEBUG: Contacts loaded =", repr(contacts))
             #     display_contacts(contacts)
             #     print("DEBUG: Display function completed")
+
 
             elif choice == "3":
                 keyword = input("Enter name, phone, or email: ")
