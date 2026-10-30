@@ -1,0 +1,8 @@
+[
+    {
+        "book_id": 1,
+        "title": "Python Basics",
+        "author": "John",
+        "available": true
+    }
+]

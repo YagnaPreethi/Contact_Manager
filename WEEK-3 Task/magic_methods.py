@@ -1,5 +1,5 @@
 """
-Story 3: Magic Methods and Operator Overloading
+Story 3: Magic Methods and Operator Overloading       (28-10-2026)
 
 This program demonstrates:
 1. __str__
